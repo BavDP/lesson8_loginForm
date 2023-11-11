@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="loginLabel">
+        <item name="android:textSize">30dp</item>
+        <item name="android:textColor">@color/teal_700</item>
+    </style>
+    <style name="loginInput">
+        <item name="android:textSize">20dp</item>
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>
